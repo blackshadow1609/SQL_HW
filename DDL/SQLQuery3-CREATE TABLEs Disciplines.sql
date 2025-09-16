@@ -1,4 +1,4 @@
---SQLQuery3-CREATE TABLEs Disciplines.sql
+﻿--SQLQuery3-CREATE TABLEs Disciplines.sql
 USE PD_411_SQL_HW;
 GO
 
