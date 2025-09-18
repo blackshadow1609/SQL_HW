@@ -29,8 +29,8 @@
           <FullPath>SQLQuery1-INSERT Students.sql</FullPath>
         </FileNode>
         <FileNode Name="SQLQuery1-INSERT.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-I644S2M\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-I644S2M\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>SQLQuery1-INSERT.sql</FullPath>
         </FileNode>
