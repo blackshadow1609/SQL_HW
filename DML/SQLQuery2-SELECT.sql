@@ -54,3 +54,4 @@ JOIN Groups ON [group] = group_id
 JOIN Directions ON direction = direction_id
 GROUP BY direction_name
 ORDER BY direction_name;
+------------------------------------------------------------------------------------------------------
